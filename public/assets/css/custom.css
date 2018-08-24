@@ -1,0 +1,85 @@
+/* your styles go here */
+.right{float: right;}
+.item:hover{background-color:rgba(0,0,0,.075);cursor: pointer;}
+
+#fa{font-size: 1.5em; background-color:#33b35a; color:#fff; padding:.5em; margin-top: -3%; border-radius: 100%}
+#fe{font-size: 1.5em; background-color:#ff7676; color:#fff; padding:.5em .7em .5em .7em; margin-top: -3%; margin-right: 2%; border-radius: 100%}
+#fi{font-size: 1.5em; background-color:#796AEE; color:#fff; padding:.5em; margin-top: -3%; margin-right: 2%; border-radius: 100%}
+#content{height: 6em !important;padding-top: 1em !important;width: }
+/* .link{font-size: 1.5em; color:#33b35a; margin-top: 0.5%; margin-left: 75%;cursor: pointer}
+.link-1-mg-0{font-size: 1.5em; color:#33b35a; margin-top: 0.5%; cursor: pointer}
+.link-top{margin-right: .5em !important; margin-top: -3rem !important} */
+
+.form-group{position: relative; margin-bottom: 6%}
+.fecha{width: 40% !important}
+.page-content{background: url('../img/fondo.png');}
+
+.autocomplete ~ ul{
+  list-style: none;
+  display: inline;
+  cursor: pointer;
+
+}
+
+.inp-field label {
+pointer-events: auto;
+}
+
+.bg-gray-1{background-color: #EEEEEE}
+.navbar-header{margin-top: -4% !important}
+.nav-menu{margin-top: -1.5% !important}
+/* nav.side-navbar ul li a{margin: 0 !important; height: 70px !important} */
+
+.alert-bank{border-radius: 0 !important;margin-bottom: 2% !important}
+.ajustes{border-bottom: 1px solid #6C7A89; height: 3em; margin-bottom: 3%}
+.ajustes small{font-weight: bold;}
+.ajustes a{float: right}
+.data1{margin-left: 15%; font-weight:normal !important; text-transform: uppercase;}
+.data2{margin-left: 18%; font-weight:normal !important; text-transform: uppercase;}
+.data3{margin-left: 10%; font-weight:normal !important; text-transform: uppercase;}
+.data4{margin-left: 12%; font-weight:normal !important; text-transform: uppercase;}
+.data5{margin-left: 15%; font-weight:normal !important; text-transform: uppercase;}
+#editName{display: none}
+#editEmail{display: none}
+#editPhone{display: none}
+.hidden{display: none;}
+.enviar{position: absolute;top:0; right: 0;}
+.cl{position: absolute;top:-1%; right:5%;}
+.fa{font-size: 1.7em!important}
+input[type='text']{text-transform: uppercase;}
+.page-header{padding-top: 1em !important}
+/* .link2{width: 95% !important;} */
+.it{height: 100px !important}
+#deposito{height: 100px!important;margin-top: -8%!important}
+#deposito .title{width: 100% !important}
+#money{height: 100px!important;margin-top: -8%!important}
+#money .title{width: 100% !important}
+#money .number{font-size: 3em}
+#tranf{height: 100px!important;margin-top: -8%!important}
+#tranf .title{width: 100% !important}
+.envia{text-align: center !important; font-size: 7em !important;height: 1em!important}
+.trans{font-size: 3em;color:#D2D7D3}
+#trans{color:#D2D7D3;font-size: 2em!important; margin-top: .5em!important}
+.card-header{width: 100% !important}
+.serial{color: #4ECDC4;font-size: 1.3em}
+.gold{color: #F9BF3B !important}
+.font-green{color:green !important}
+.font-red{color: #F03434 !important}
+#form-register{width: 100% !important; max-width: none !important}
+.select-wrapper{max-height: 5em !important}
+.btn-floating-right{float: right !important; position: relative;top: -.5em;right: 1.5rem !important}
+.tr{height: 300px!important;}
+.tr2{height: 250px!important;text-align: center;}
+.logo-sm{width: 10em !important; margin: auto !important;}
+.logo-xsm{width: 2em !important; margin: auto !important;}
+.h4{text-align: center;font-size: 3em; color: #D2D7D3}
+.danger{color:red; font-size: 2em}
+#alert{background: red; position: fixed;padding: .5em;border-radius: 100%;height: 1em!important}
+#recibe{font-size: 5em !important}
+#regMoneda{display: none}
+.card-image img{width: 100%!important}
+.card-content small{font-weight: bold;}
+#showCorreos{cursor: pointer;float: right;right: -2%;top: 25%;position: absolute;}
+#correos{position: absolute;background-color:#fff; width: 94%;top: 35%; padding: 10px; z-index: 100000; box-shadow: 0px 5px 15px 5px #D2D7D3; overflow-y: scroll;}
+#correos li{cursor: pointer;padding: 5px;color: green; }
+#correos li:hover{cursor: pointer;background-color: #D2D7D3;font-weight: bold;padding: 5px;color: green}
